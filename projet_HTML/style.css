@@ -1,0 +1,248 @@
+img{
+        width: 100%;
+        height: auto;
+}
+.jumbostyle{
+	background-color:#2e3438;
+        color:#f8e2b3;
+        margin-bottom:0;
+        font-family:'Trebuchet MS', Times, serif;
+        
+}
+.titre{
+        text-decoration: underline;
+}
+.navbar{        
+        background-image:url("Images/leather_background.jpg");
+        height: 75px;
+        width: auto;
+}
+.navbar-nav{
+        display: inline-flex;
+}
+#img_ralof{
+        height: 300px;
+        width: auto;
+}
+.img_persos{
+        display: flex;
+        /*text-align: center;*/
+        padding-right: auto;
+        height: 350px;
+        width: auto;
+        max-width: 100%;
+        margin-bottom : 10px;
+        margin-top: 10px;
+        border: solid 4px #CD7F32;
+}
+.nav-link{
+        color: #f8e2b3;
+        font-size:25px;
+}
+.navbar_link{ 
+        color: #f8e2b3;
+        font-size:25px;               
+        margin-left:20px;
+        margin-right:20px;
+}
+.souligne{
+        text-decoration: underline;
+}
+nav a{
+        color: white;
+}
+.footer
+{
+        background-image:url("Images/leather_background.jpg");
+        color:#f8e2b3;        
+        width: 100%;
+        height: 50px;    
+        text-align: center;  
+        position: fixed ;
+        bottom: 0;   
+        border: 10px solid #0000 ;
+        
+}
+.textFooter
+{
+        font-size: 30px;
+}  
+
+body{	
+        font-family:Arial;
+        background-color:#2e3438 ;
+}
+
+a:hover{
+        color: #faeed6; 
+}
+a:active{
+        color:black;
+}
+
+.liste_persos{
+        border: 2px solid black;
+        border-radius: 5px;
+        color : #f8e2b3;        
+        margin: 20px 50px 10px 5px;
+        background-color: #2e3438;
+        width : auto ;
+        max-width: 300px;
+}
+.liste_armes{
+        display: inline;
+}
+#link_arme{
+        font-size : 17px;
+        color:#f8e2b3;
+        text-align: left;
+        width: 300px;
+        margin-right: 15px;
+
+}
+.img_arme{
+        position: block;
+        max-height: 300px;
+        width: auto;        
+        margin-bottom : 10px;
+        margin-top: 10px;
+        border: solid 4px #CD7F32;
+}
+.texte_arme{
+        margin-bottom: 5px;
+        color:#f8e2b3;
+        min-height: 50%;
+
+}
+
+.title_liste{
+        font-size: 20px;
+        text-decoration: underline;
+}
+.texte-perso{
+        background-color: #2e3438;
+        color: #f8e2b3;
+        font-size: 18px;
+        padding: 20px 20px 20px 20px;
+        height: 300px;
+}
+.container{
+        max-width: 100%;
+        height: auto;
+        background-color:#f8e2b3 ;
+}
+.table {
+        border: solid black 2px;
+        width : auto ;        
+        color : #f8e2b3;
+        font-weight :bold;
+        background-color: #2e3438 ;        
+}
+.champ_table{
+        height: 30px;
+        border: double black 1px;
+        text-align: left ;
+        font-size : 15px;
+}
+.valeur_table{
+        text-align: center;
+}
+.col-6{
+        height: 30px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+}
+.tabQuete {
+        border: solid black 2px;
+        width : auto ;
+        color : #f8e2b3;
+        font-weight :bold;  
+        background-color: #2e3438 ; 
+        margin:30px;  
+}
+.easter_egg {
+        text-decoration:underline;
+}
+h1{
+        text-decoration: underline;
+}
+.navicon{
+        background-color :#2e3438;
+        border : solid #CD7F32 1px;
+        width: auto;
+        margin: 10px 0px 0px 1px;
+}
+.tableau_arme{
+        border: solid black 6px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+}
+.img-armes{
+        width: 80px;
+        height: auto;
+        border : solid #CD7F32 2px;   
+        background-image: url("Images/leather_background.jpg");   
+}
+.icon{    
+        margin: 184px;
+}
+.icon_txt:hover{
+        color : gold;
+}        
+
+.box{
+        display : inline-flex ;
+        text-align: left;
+        color:#f8e2b3 ;
+        margin-top: 20px;
+        margin-bottom: 20px ;
+        margin-left: 10px;
+        margin-right: 10px;
+        width: 20%;
+}
+.midline{
+        margin:auto;
+}
+#titlebar{
+        text-align: center;
+        font-family: tahoma;
+        background-color:#2e3438;
+        color: #f8e2b3;
+        font-size: 30px;
+        width: 100%;
+        margin-top: 5px;
+        position: relative;
+}
+.row{
+        margin-right: 0%;
+}
+
+#bodyformulaire
+{
+        background-image: url("Images/DragonBorn.jpg");
+        background-size: cover;
+}
+.formulaire{
+        background-image: url("Images/leather_background.jpg");
+        color: #f8e2b3;
+        width: 60%;
+        height: auto;
+        margin-top: 250px;  
+        margin-left: auto;      
+        margin-right: auto;
+        margin-bottom: auto;
+        text-align:center;
+        border: solid 2px #CD7F32; 
+        font-size: 20px;
+}
+
+.seubmite{
+        color: black;
+        background-color:white;
+        width: 200px ;
+        
+}
+.seubmite:hover{
+        color:#f8e2b3;
+        background-color: #2e3438;
+}
